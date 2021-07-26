@@ -1,0 +1,26 @@
+
+.website-button{
+    background-color: #21B573;
+    border-radius: 33px;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    color: white;
+}
+
+li{
+    padding-right:1rem;
+}
+
+.background-color{
+    background-color: #F0FFF0;
+}
+
+.span-color{
+    color: #21B573;
+}
+
+.bg-footer{
+    background-color: #282531;
+}
