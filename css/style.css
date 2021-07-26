@@ -24,3 +24,27 @@ li{
 .bg-footer{
     background-color: #282531;
 }
+
+/* .carousel-control-prev{
+    justify-content: flex-start;
+}
+.carousel-control-next{
+    justify-content: flex-end;
+} */
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-image: none;
+}
+
+.carousel-control-next-icon:after{
+    content: '>';
+    font-size: 55px;
+    color: black;
+}
+
+.carousel-control-prev-icon:after{
+    content: '<';
+    font-size: 55px;
+    color: black;
+}
